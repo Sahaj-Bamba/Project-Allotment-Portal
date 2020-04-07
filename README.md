@@ -75,7 +75,7 @@ proff_allotment allots professors based on priority set by team leaders
     -Then Everything is complete team is set with mentor now you can discuss on project.
     
 ## Features Working on
-	  -Notification
+    -Notification
     -Better styling
     -Lots of polishing
     -Chat box
@@ -86,7 +86,7 @@ proff_allotment allots professors based on priority set by team leaders
 # General Number meanings
 
 
-##authority
+## authority
 
 1-3 team member
 
@@ -94,7 +94,7 @@ proff_allotment allots professors based on priority set by team leaders
 
 5 prof
 
-##data verified
+## data verified
 
 0 default
 
@@ -109,7 +109,7 @@ proff_allotment allots professors based on priority set by team leaders
 5 >=    Complete
 
 
-##Priority
+## Priority
 
 Lower the priority means more I want it.
 
