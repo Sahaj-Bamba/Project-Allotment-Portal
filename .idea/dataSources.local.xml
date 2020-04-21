@@ -3,14 +3,25 @@
   <component name="dataSourceStorageLocal">
     <data-source name="Django default" uuid="31c06e2f-3953-4895-8c96-a7304c9f46b0">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
-      <introspection-schemas>*:@</introspection-schemas>
+      <schema-mapping>
+        <introspection-scope>
+          <node kind="schema" qname="@" />
+        </introspection-scope>
+      </schema-mapping>
     </data-source>
     <data-source name="db" uuid="06aeaa96-5ad3-472f-b874-9da1b8772a94">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <schema-mapping />
     </data-source>
     <data-source name="db [2]" uuid="96a04f54-deca-4219-bb51-844616ea8688">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
       <auth-required>false</auth-required>
+      <schema-mapping />
+    </data-source>
+    <data-source name="db [3]" uuid="16973958-73ba-4a7a-be7b-3a9a4af36027">
+      <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
+      <auth-required>false</auth-required>
+      <schema-mapping />
     </data-source>
   </component>
 </project>

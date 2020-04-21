@@ -30,5 +30,11 @@
         <property name="enable_load_extension" value="true" />
       </driver-properties>
     </data-source>
+    <data-source source="LOCAL" name="db [3]" uuid="16973958-73ba-4a7a-be7b-3a9a4af36027">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Common\Projects\Django\Project-Allotment-Portal\db.sqlite3</jdbc-url>
+    </data-source>
   </component>
 </project>
